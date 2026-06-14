@@ -1,86 +1,40 @@
-DecodeLabs Task 1 – Task Dashboard
+DecodeLabs Internship - Portfolio Website
 
-Description
+Project Overview
 
-This project is developed as part of the DecodeLabs Internship Program. It is a Task Dashboard application that allows users to manage and organize tasks efficiently.
-
-Features
-
-- Add new tasks
-- View task list
-- Simple and user-friendly interface
-- Responsive design
+This is Project 1 of my DecodeLabs Full Stack Development Internship. The project is a responsive personal portfolio website created using HTML, CSS, and JavaScript.
 
 Technologies Used
 
 - HTML
 - CSS
 - JavaScript
-- Node.js
-- Express.js
-
-Project Structure
-
-- Frontend files
-DecodeLabs Task 1 – Task Dashboard
-
-Description
-
-This project is developed as part of the DecodeLabs Internship Program. It is a Task Dashboard application that allows users to manage and organize tasks efficiently.
 
 Features
 
-- Add new tasks
-- View task list
-- Simple and user-friendly interface
 - Responsive design
-
-Technologies Used
-
-- HTML
-- CSS
-- JavaScript
-- Node.js
-- Express.js
+- Navigation bar
+- About section
+- Skills section
+- Projects section
+- Contact section
+- Interactive elements using JavaScript
 
 Project Structure
 
-- Frontend files
-- Backend files
-- Package configuration
+DecodeLabs-Internship-Portfolio
+├── index.html
+├── style.css
+├── script.js
+└── screenshots/
 
-How to Run
+Screenshots
 
-1. Install dependencies:
-   npm install
-
-2. Start the server:
-   node server.js
-
-3. Open the application in your browser.
+Screenshots of the website are included in the "screenshots" folder.
 
 Author
 
 Manaswini Muchkur
 
-Internship
+Developed as part of the DecodeLabs Industrial Training Program.
 
-DecodeLabs Internship Program- Package configuration
-
-How to Run
-
-1. Install dependencies:
-   npm install
-
-2. Start the server:
-   node server.js
-
-3. Open the application in your browser.
-
-Author
-
-Manaswini Muchkur
-
-Internship
-
-DecodeLabs Internship Program
